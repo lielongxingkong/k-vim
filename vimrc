@@ -692,7 +692,8 @@ endif
 
 
 " 修改主题和颜色展示
-colorscheme solarized
+"colorscheme solarized
+colorscheme molokai
 set background=dark
 set t_Co=256
 
